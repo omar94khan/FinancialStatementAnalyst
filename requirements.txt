@@ -1,0 +1,10 @@
+yfinance
+numpy
+pandas
+seaborn
+matplotlib.pyplot
+sklearn
+requests
+os
+time
+streamlit
