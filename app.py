@@ -1,12 +1,5 @@
 import yfinance as yf
-import numpy as np
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import sklearn as sk
-import requests
-import os
-import time
 import streamlit as st
 
 tic_list = pd.read_csv('./LOV.csv')

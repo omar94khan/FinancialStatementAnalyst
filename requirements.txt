@@ -1,5 +1,2 @@
 yfinance
-numpy
 pandas
-requests
-streamlit
